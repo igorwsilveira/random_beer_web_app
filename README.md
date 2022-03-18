@@ -23,10 +23,10 @@ Based on Brewdog pub, one of the best known pubs in the world with their vast ca
 [Try The Random Beer Web App!](https://randombeerwebapp.herokuapp.com/)
 
 **Desktop**:
-![me](https://github.com/igorwsilveira/random_beer_web_app/appdemo1.gif) 
+![till](https://github.com/igorwsilveira/random_beer_web_app/appdemo1.gif) 
 
 **Mobile**:
-![me](https://github.com/igorwsilveira/random_beer_web_app/appdemo2.gif) 
+![till](https://github.com/igorwsilveira/random_beer_web_app/appdemo2.gif) 
 
 
 ## Acknowledgements
